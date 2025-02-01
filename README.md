@@ -2,7 +2,7 @@
 
 here i will be exploring haptic motion  
 
-it started with sword art online,  
+it started with sword art online...
 
 ## exploring haptic motion: from sao to haptic suits  
 
